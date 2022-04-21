@@ -9,7 +9,7 @@ g++ bankers.cpp -o bankers
 
 ## Data formating
 ```
-Data must be formating in such a way that there is a space in between each number.
+Data must be formated in such a way that there is a space in between each number.
 The first row of numbers is for the "mAlloc" array. This array handles allocation.
 The second row of numbers is for the "mMax" array. This array handles the Max.
 The third row of numbers is for "available" and handles availablity.
