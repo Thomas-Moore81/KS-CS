@@ -1,0 +1,24 @@
+ 13:48:40 up 44 days,  6:44, 22 users,  load average: 0.17, 0.32, 0.43
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+nflower5 pts/0    10.19.73.122     09:04    8:32   3.46s  3.40s emacs lab1.cpp
+jmaletic pts/1    131.123.38.179   Wed12    2days  0.09s  0.09s -bash
+dwill232 pts/2    65.185.72.22     13:12    3:04   0.09s  0.09s -bash
+nvongrat pts/4    8.40.67.52       13:28   15:52   0.05s  0.05s -bash
+tmoore81 pts/3    174.96.26.251    13:12    0.00s  0.12s  0.02s w
+rbricke2 pts/5    10.22.4.154      13:39    6:56   0.04s  0.04s -bash
+sshrest5 pts/7    74.141.6.126     12:27    7:28   1.70s  0.25s emacs main.cpp
+sshrest5 pts/8    74.141.6.126     12:29    6:56   6.41s  6.33s emacs main.cpp
+sreen    pts/9    173.88.240.249   12:30   48.00s  0.12s  0.12s -bash
+hwebb7   pts/11   10.12.62.81      12:38    3:20   0.06s  0.06s -bash
+nwalcza1 pts/12   75.188.160.176   13:24   48.00s  0.07s  0.07s -bash
+akovach7 pts/13   65.31.9.137      12:40    3:05   0.11s  0.11s -bash
+cakhigbe pts/14   131.123.42.214   12:42    7.00s  0.12s  0.12s -bash
+jmason35 pts/6    10.12.42.179     12:41    3:22   0.10s  0.10s -bash
+knovak24 pts/15   10.14.75.54      12:42    2:32   0.08s  0.08s -bash
+sdamico5 pts/16   108.92.31.35     12:43   15.00s  0.09s  0.01s svn co https://svn.cs.kent.edu/courses/cs23001/svn/shared
+jharve20 pts/17   75.187.144.140   12:43   15:52   0.04s  0.04s -bash
+jcable4  pts/18   174.104.137.96   13:04   56.00s  0.11s  0.11s -bash
+ccovent1 pts/20   70.240.146.185   13:31    7:44   0.06s  0.06s -bash
+aschaler pts/22   99.185.50.250    13:40    3:28   0.04s  0.04s -bash
+sshrest5 pts/19   74.141.6.126     12:49   59:12   0.28s  0.24s emacs wordcount.hpp
+fdawson1 pts/35   10.12.96.157     Thu17   19:50m  0.13s  0.13s -bash

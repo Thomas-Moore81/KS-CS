@@ -1,0 +1,3 @@
+﻿  age.cpp
+X:\CS Projects\Lab4_Age\Lab4_Age\age.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab4_Age.vcxproj -> X:\CS Projects\Lab4_Age\Debug\Lab4_Age.exe

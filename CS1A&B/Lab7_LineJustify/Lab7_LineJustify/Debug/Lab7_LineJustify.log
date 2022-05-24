@@ -1,0 +1,3 @@
+﻿  linejustify.cpp
+E:\CS Projects\Lab7_LineJustify\Lab7_LineJustify\linejustify.cpp(28,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lab7_LineJustify.vcxproj -> E:\CS Projects\Lab7_LineJustify\Debug\Lab7_LineJustify.exe

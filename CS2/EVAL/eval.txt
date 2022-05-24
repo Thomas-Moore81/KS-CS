@@ -1,0 +1,35 @@
+P1 
+
+m1: 100
+m2: 95 - inadequate addition testing
+m3: 95 - inadequte timesDigit testing
+
+bonus: 
+
+
+P2
+
+m1: 90 - passes until concat -> infinitely concat-ing; check Makefile for order we test;
+m2: 100 (regrade) - 90 cap for regrades normally - testoracle error exception here
+m3: 100
+m4: 95 - hosts not printing on new lines;
+
+bonus: 
+
+P3 
+
+m1: 100
+m2: 95 (correction)
+m3: 90 (regrade)
+
+bonus: 
+
+P4
+
+m1: 100
+m2:
+m3: 
+
+bonus: 
+
+
